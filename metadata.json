@@ -1,0 +1,5 @@
+{
+  "name": "Clip Finder AI",
+  "description": "Automatically analyze long-form videos to extract viral-worthy 30-60s clips for TikTok, Reels, and Shorts using Gemini AI.",
+  "requestFramePermissions": []
+}
